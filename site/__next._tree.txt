@@ -1,0 +1,4 @@
+:HL["/tora-portfolio-pages/_next/static/chunks/00z5hm8jzqkub.css","style"]
+:HC["/",""]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"nn6s3gHEZTuB8wgIU1AC5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
