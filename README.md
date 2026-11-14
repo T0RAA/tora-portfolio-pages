@@ -2,7 +2,7 @@
 
 Generated website files for Tora Matsuda's personal portfolio.
 
-Website: https://t0raa.github.io/tora-portfolio-pages/
+Website: https://t0raa.github.io/
 
 The source repository stays private. Approved source changes build and check the portfolio, publish only generated files here, and deploy through GitHub Pages. The pixel companion uses curated answers entirely in the visitor's browser; it does not call an AI service.
 
